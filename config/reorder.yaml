@@ -1,0 +1,12 @@
+# ===================================
+#  Reorder Behavior Config
+# ===================================
+
+# Reorder Title
+title: Reorder products
+
+# Attribute name
+nameFrom: name
+
+# Model Class name
+modelClass: Lovata\Shopaholic\Models\Product

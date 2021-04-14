@@ -1,0 +1,8 @@
+plugin:
+    name: 'codecycler.customsortshopaholic::lang.plugin.name'
+    description: 'codecycler.customsortshopaholic::lang.plugin.description'
+    author: Codecycler
+    icon: icon-bars
+    homepage: ''
+navigation:
+permissions:
